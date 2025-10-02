@@ -7,12 +7,12 @@ using namespace AdvancedMath;
 using namespace std;
 
 int main(){
-    int x = 4;
-    int y = 1;
+    int a = 3;
+    int b = 4;
 
-    cout << add(x, y) << endl;
-    cout << multiply(x, y) << endl;
-    cout << square(y) << endl;
+    cout << "a + b = " << add(a, b) << endl;
+    cout << "a * b = " << multiply(a, b) << endl;
+    cout << "square(a) = " << square(a) << endl;
 
     return 0;
 }
