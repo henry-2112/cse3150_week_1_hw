@@ -1,5 +1,5 @@
 #include <iostream>
-#include "/Users/henry2112/Desktop/cse3150/hw/namespaces/include/AdvancedMath.h"
+#include "AdvancedMath.h"
 
 using namespace AdvancedMath;
 using namespace MathUtils;
